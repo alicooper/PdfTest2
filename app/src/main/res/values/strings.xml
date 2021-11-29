@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pdfTest2</string>
+    <string name="read_and_edit_pdfs">Read and edit PDFs</string>
+</resources>
